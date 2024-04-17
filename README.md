@@ -4,7 +4,7 @@ ___
 
 Стек:
 
->![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=Vite&label=Vite&labelColor=palegreen&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v3.11-brightgreen?style=flat-square&logo=python&label=python&labelColor=yellow&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-v2.0-brightgreen?style=flat-square&logo=telegram&label=AioGram&labelColor=darkviolet&color=aqua)
 
 
